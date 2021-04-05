@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giffarialfarizy
+- 👋 Hi, I’m Giffari Alfarizy
 - 👀 I’m interested in education technology and front-end engineering
 - 🌱 I’m currently learning natural language processing with deep learning
 - 💞️ I’m looking to collaborate on software developing or machine learning
